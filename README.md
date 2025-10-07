@@ -1,11 +1,18 @@
+---
+category: index
+aliases:
+  - 总目录
+  - Table of Contents for All Courses
+---
+
 # Table of Contents for All Courses
 
-- [Biology](Biology/Table%20of%20Contents.md)
-- [Chemistry](Chemistry/Table%20of%20Contents.md)
-- [Chinese](Chinese/Table%20of%20Contents.md)
-- [English](English/Table%20of%20Contents.md)
-- [Geography](Geography/Table%20of%20Contents.md)
-- [History](History/Table%20of%20Contents.md)
-- [Mathematics](Mathematics/Table%20of%20Contents.md)
-- [Physics](Physics/Table%20of%20Contents.md)
-- [Politics](Politics/Table%20of%20Contents.md)
+- [Biology](Biology/Biology-Table-of-Contents.md)
+- [Chemistry](Chemistry/Chemistry-Table-of-Contents.md)
+- [Chinese](Chinese/Chinese-Table-of-Contents.md)
+- [English](English/English-Table-of-Contents.md)
+- [Geography](Geography/Geography-Table-of-Contents.md)
+- [History](History/History-Table-of-Contents.md)
+- [Mathematics](Mathematics/Mathematics-Table-of-Contents.md)
+- [Physics](Physics/Physics-Table-of-Contents.md)
+- [Politics](Politics/Politics-Table-of-Contents.md)
